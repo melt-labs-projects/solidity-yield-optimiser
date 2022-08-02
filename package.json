@@ -1,0 +1,21 @@
+{
+  "name": "auto-farms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "@openzeppelin/test-helpers": "^0.5.15",
+    "@uniswap/v2-core": "^1.0.1",
+    "web3": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
